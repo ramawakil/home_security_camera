@@ -1,0 +1,14 @@
+appdirs==1.4.3
+certifi==2019.11.28
+chardet==3.0.4
+google-speech==1.1.0
+idna==2.8
+numpy==1.17.4
+opencv-contrib-python==4.1.2.30
+opencv-python==4.1.2.30
+Pillow==6.2.1
+PyAudio==0.2.11
+requests==2.22.0
+SpeechRecognition==3.8.1
+urllib3==1.25.7
+web-cache==1.1.0
